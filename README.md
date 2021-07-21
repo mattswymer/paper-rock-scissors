@@ -1,0 +1,1 @@
+I started coding in June 2020 and saw a Reddit post about creating a paper, rock, scissors game and decided to make my own. It took me about a week to write because I wanted multiple responses as feedback and statistics to view. This is the first full program I have written.
